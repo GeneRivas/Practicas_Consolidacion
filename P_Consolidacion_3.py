@@ -9,7 +9,7 @@ def Hacer_Grandioso():
     print(f'El gran {grandiosos}')
 
 def Imprimir_Nombres():
-  for todos in Nombres:
+   for todos in Nombres:
     print(todos)
     
 print('\n***********TODOS LOS NOMBRES***********\n')
